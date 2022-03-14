@@ -7,6 +7,7 @@ This simple script takes a filename and creates multiple Excel files based on th
 
 ### Example
 Steam Reviews dataset on Kaggle has 6,417,106 rows. 
+
 https://www.kaggle.com/andrewmvd/steam-reviews
 
 The expected result with *maxRowLength = 500000* will be 12 files with 500,000 records, and the 13th file with the remaining 417,106 records.
