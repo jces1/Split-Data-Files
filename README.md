@@ -9,6 +9,6 @@ This simple script takes a filename and maxRowLength and spits out xlsx files.
 Steam Reviews dataset on Kaggle has over 6 million rows. 
 https://www.kaggle.com/andrewmvd/steam-reviews
 
-The expected result with *maxRowLength = 500000* will be x files.
+The expected result with *maxRowLength = 500000* will be 12 files.
 
 ![Alt text](/../main/output.png?raw=true "Optional Title")
