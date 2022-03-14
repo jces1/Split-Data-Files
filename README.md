@@ -11,4 +11,4 @@ https://www.kaggle.com/andrewmvd/steam-reviews
 
 The expected result with *maxRowLength = 500000* will be 12 files with 500,000 records, and the 13th file with the remaining 417,106 records.
 
-![Alt text](/../main/output.png?raw=true "Optional Title")
+![Alt text](/../main/output.png?raw=true "Output")
