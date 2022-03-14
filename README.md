@@ -11,4 +11,4 @@ https://www.kaggle.com/andrewmvd/steam-reviews
 
 The expected result with *maxRowLength = 500000* will be x files.
 
-[My image](jces1.github.com/Split-Data-File/images/output.png)
+[My image](https://github.com/jces1/Split-Data-Files/blob/main/images/output.png)
