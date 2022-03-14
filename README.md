@@ -11,4 +11,4 @@ https://www.kaggle.com/andrewmvd/steam-reviews
 
 The expected result with *maxRowLength = 500000* will be x files.
 
-![What is this](output.png)
+![alt text](output.png)
